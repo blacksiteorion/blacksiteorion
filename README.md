@@ -1,241 +1,106 @@
 <div align="center">
 
-<img src="https://github.com/blacksiteorion.png" width="170" height="170" style="border-radius:50%;" alt="Ujjwal Tomar" />
-
-# BLACKSITE ORION
-
-### Ujjwal Tomar
-
-`Security Researcher` · `Systems Developer` · `Tool Builder`
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+study+systems+at+their+boundaries.;Security+is+an+engineering+problem.;Understand+the+system.+Then+question+it.;Build.+Break.+Understand.+Repeat." alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=3000&pause=900&color=777777&center=true&vCenter=true&width=500&lines=BLACKSITE+ORION;SECURITY+%2F+SYSTEMS+%2F+SOFTWARE" alt="Blacksite Orion" />
 
 </div>
 
 <br>
 
----
-
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="30%" align="center" valign="middle">
 
-## `01` — WHOAMI
+<img src="https://github.com/blacksiteorion.png?size=300" width="145" height="145" alt="Ujjwal Tomar" />
 
-I am **Ujjwal Tomar**, a security-focused developer interested in the parts of software that are usually hidden beneath the interface.
+<br><br>
 
-My work revolves around **security research, systems, Linux, offensive security, malware analysis and custom tooling**.
+**UJJWAL TOMAR**
 
-I like understanding a system from the inside — not simply using the tools built around it.
+`blacksiteorion`
 
 </td>
 
-<td width="48%" valign="top">
+<td width="70%" valign="middle">
 
-## `02` — CURRENT STATE
+# Security Researcher
+### Systems · Security · Tooling
 
-```text
-SYSTEM        Linux
-FOCUS         Security Research
-BUILDING      Security Tooling
-LEARNING      Systems & Low-Level
-RESEARCH      Malware Analysis
-STACK         Python · C/C++ · Linux
-STATUS        ████████████░░  active
-```
+I build and study software at the point where **systems, security and engineering** meet.
+
+My work focuses on understanding how systems behave, where assumptions fail, and how those boundaries can be tested responsibly.
+
+<br>
+
+`Python` · `Linux` · `Network Security` · `Systems` · `Security Research`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/blacksiteorion)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/holdsauraa)
+[![Email](https://img.shields.io/badge/CONTACT-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:axus415ea@gmail.com)
 
 </td>
 </tr>
 </table>
 
----
-
-## `03` — THE WORKBENCH
+<br>
 
 <table>
 <tr>
-
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### SECURITY
 
-`Offensive Security`
-
-`Reconnaissance`
-
-`Vulnerability Research`
-
-`System Analysis`
+`Offensive Research`  
+`Reconnaissance`  
+`Vulnerability Analysis`
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### SYSTEMS
 
-`Linux`
-
-`Processes`
-
-`Networking`
-
-`OS Internals`
-
-`Low-Level Concepts`
+`Linux`  
+`Networking`  
+`Low-Level`
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### DEVELOPMENT
+### BUILD
 
-`Python`
-
-`Systems Software`
-
+`Python`  
+`Tooling`  
 `Automation`
 
-`Security Tooling`
-
-`Research Prototypes`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `04` — OPERATIONS
-
-<table>
-<tr>
-<td>
-
-**Security Tooling**
-
-Building small, focused tools around problems that are better solved with software than repetition.
-
-</td>
-<td>
-
-**Systems Research**
-
-Learning how operating systems, processes, networks and software behave beyond their intended surface.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**Malware Research**
-
-Studying malicious software from a defensive and analytical perspective — behaviour, execution and indicators.
-
-</td>
-<td>
-
-**Experiments**
-
-Turning questions into working prototypes, then testing where the assumptions stop holding.
-
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## `05` — GITHUB / SYSTEM TELEMETRY
-
-<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true" height="165" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksiteorion&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&langs_count=8" height="165" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blacksiteorion&bg_color=00000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
-
-</div>
-
----
-
-## `06` — ENGINEERING PRINCIPLE
-
-<div align="center">
-
-> **Don't trust the surface. Understand what is underneath it.**
-
-</div>
-
-I don't build security tools simply because the category already exists.
-
-I build them when there is something worth understanding, automating, testing or challenging.
-
-The objective is not to make noise.
-
-**It is to reduce the distance between a question and an answer.**
-
----
-
-## `07` — SELECTED SIGNALS
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   SECURITY        ████████████████████░░                     │
-│   SYSTEMS         █████████████████░░░░░                     │
-│   PYTHON          █████████████████████░                     │
-│   LINUX           ██████████████████████                     │
-│   RESEARCH        ██████████████████░░░░                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `08` — BLACKSITE ORION
-
-**Blacksite Orion** is my workspace for security research, software experiments and independent tooling.
-
-Not a brand built around noise.
-
-Just a place to build, investigate, document and learn.
-
-Some work will be public.
-
-Some won't.
-
-The distinction is intentional.
-
----
-
-<div align="center">
-
-### `ESTABLISH CONNECTION`
-
-<a href="https://github.com/blacksiteorion">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/holdsauraa">
-<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:axus415ea@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-`BLACKSITE ORION / NEW DELHI / INDIA`
 
 <br>
 
-<sub>© Ujjwal Tomar · Built with curiosity, discipline and too many terminal windows.</sub>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksiteorion&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6" height="150" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blacksiteorion&bg_color=00000000&color=777777&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Activity" width="90%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`BUILD QUIETLY. UNDERSTAND DEEPLY.`
+
+<br><br>
+
+<sub>Blacksite Orion · Ujjwal Tomar · New Delhi, India</sub>
 
 </div>
