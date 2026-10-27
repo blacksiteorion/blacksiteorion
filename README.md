@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,100:151515&text=BLACKSITE%20ORION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=fadeIn&desc=Ujjwal%20Tomar%20%2F%20Security%20%2F%20Systems%20%2F%20Research&descAlignY=62&descSize=15" width="100%" alt="Blacksite Orion"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,100:121212&text=BLACKSITE%20ORION&fontColor=ffffff&fontSize=34&fontAlignY=45&animation=fadeIn&desc=Security%20Researcher%20%C2%B7%20Systems%20Developer%20%C2%B7%20Tool%20Builder&descAlignY=68&descSize=13" width="100%" alt="Blacksite Orion"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=999999&center=true&vCenter=true&width=650&lines=Security+Researcher;Systems+%26+Software+Developer;Building+tools+to+understand+systems;Always+looking+beyond+the+surface" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=550&lines=Security+Researcher;Systems+Developer;Security+Tooling;Linux+%26+Systems;Research+%2F+Build+%2F+Understand" alt="Typing Animation"/>
 
 </div>
 
@@ -12,49 +12,48 @@
 
 <table>
 <tr>
+<td width="30%" align="center" valign="middle" style="border: none; background: transparent;">
 
-<td width="32%" align="center" valign="middle">
-
-<img src="https://github.com/blacksiteorion.png?size=400" width="155" alt="Ujjwal Tomar"/>
+<img src="https://github.com/blacksiteorion.png?size=400" width="140" style="border-radius: 50%;" alt="Ujjwal Tomar"/>
 
 <br><br>
 
-### UJJWAL TOMAR
+<strong>UJJWAL TOMAR</strong>
 
-`blacksiteorion`
+<br>
+
+<sub>`blacksiteorion`</sub>
 
 <br>
 
 <sub>New Delhi · India</sub>
 
 </td>
+<td width="70%" valign="middle" style="border: none; background: transparent;">
 
-<td width="68%" valign="middle">
+### Security Researcher
 
-# Security Researcher
-
-### Systems · Security · Tooling
-
-I build software around **security, systems and research**.
-
-I am interested in what happens underneath the interface — how systems behave, where assumptions fail, and what can be learned from those boundaries.
+`Systems` · `Security` · `Tooling`
 
 <br>
 
-`Python` · `Linux` · `Networking` · `Systems` · `Security Research`
+I build software around security, systems, and low-level research. Focused on understanding how systems behave beneath the interface, where design assumptions break down, and how tools can make those boundaries visible.
+
+<br>
+
+`Python` · `Linux` · `Networking` · `Systems` · `Security Research` · `Low-Level Development`
 
 <br><br>
 
 <a href="https://instagram.com/holdsauraa">
-<img src="https://img.shields.io/badge/%40HOLDSAURAA-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-050505?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:blacksiteorionn@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-050505?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -62,26 +61,13 @@ I am interested in what happens underneath the interface — how systems behave,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=555555" width="88%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=333333" width="90%" alt="divider"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_rank=true&hide=issues&cache_seconds=1800" width="75%" alt="GitHub Statistics"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:151515,100:050505" width="100%" alt="Footer"/>
-
 <sub>
 
-**BLACKSITE ORION** · UJJWAL TOMAR
-
-<br>
-
+**BLACKSITE ORION**  
 `BUILD / RESEARCH / UNDERSTAND`
 
 </sub>
