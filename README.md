@@ -1,96 +1,241 @@
 <div align="center">
 
-<img src="https://github.com/blacksiteorion.png" width="150" alt="Blacksite Orion" />
+<img src="https://github.com/blacksiteorion.png" width="170" height="170" style="border-radius:50%;" alt="Ujjwal Tomar" />
 
-# Blacksite Orion · Ujjwal Tomar
+# BLACKSITE ORION
 
-**Security Researcher · Systems Developer · Tool Builder**
+### Ujjwal Tomar
 
-*"Hello, friend."*
+`Security Researcher` · `Systems Developer` · `Tool Builder`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1400&color=FFFFFF&center=true&vCenter=true&width=620&lines=Security+Research+%26+Engineering;Offensive+Security+%7C+Systems;Security+Tooling+%7C+Low-Level+Development;Learning+how+systems+fail+%E2%80%94+and+why)](https://git.io/typing-svg)
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=I+study+systems+at+their+boundaries.;Security+is+an+engineering+problem.;Understand+the+system.+Then+question+it.;Build.+Break.+Understand.+Repeat." alt="Typing Animation" />
 
 </div>
 
----
-
-## About
-
-I work at the intersection of **security and software engineering**.
-
-My interest is in understanding systems beyond the surface — how software behaves, where assumptions break, how vulnerabilities emerge, and what happens when a system is pushed outside the conditions it was designed for.
-
-I build tools, experiment with systems, study offensive techniques, and use that understanding to approach security from the other side of the boundary.
-
-**Blacksite Orion** is the name under which I develop and document that work.
+<br>
 
 ---
 
-## What I Work On
+<table>
+<tr>
+<td width="52%" valign="top">
 
-| Area | Focus |
-|---|---|
-| **Security Research** | Vulnerability research, offensive security, system analysis |
-| **Security Tooling** | Purpose-built tools, automation, reconnaissance & analysis |
-| **Systems** | Linux, operating-system internals, processes & system behaviour |
-| **Malware Research** | Malware analysis, reverse engineering & defensive research |
-| **Development** | Python, systems software, low-level experimentation |
+## `01` — WHOAMI
 
-I am less interested in collecting technologies and more interested in understanding **how they actually work**.
+I am **Ujjwal Tomar**, a security-focused developer interested in the parts of software that are usually hidden beneath the interface.
 
----
+My work revolves around **security research, systems, Linux, offensive security, malware analysis and custom tooling**.
 
-## Current Work
+I like understanding a system from the inside — not simply using the tools built around it.
 
-- Building security tools designed around real research problems.
-- Studying offensive techniques to better understand defensive boundaries.
-- Exploring malware behaviour, analysis and defensive research.
-- Developing deeper knowledge of Linux and system internals.
-- Turning experiments into software that can be reproduced, tested and understood.
+</td>
 
----
+<td width="48%" valign="top">
 
-## Engineering Philosophy
+## `02` — CURRENT STATE
 
-> **Understand the system before trying to secure it.**
+```text
+SYSTEM        Linux
+FOCUS         Security Research
+BUILDING      Security Tooling
+LEARNING      Systems & Low-Level
+RESEARCH      Malware Analysis
+STACK         Python · C/C++ · Linux
+STATUS        ████████████░░  active
+```
 
-I don't believe security begins with a tool.
-
-It begins with understanding the system well enough to know **what should happen, what can happen, and what should never happen.**
-
-The goal isn't to break things for the sake of breaking them.
-
-The goal is to make the unknown **less unknown**.
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Work
+## `03` — THE WORKBENCH
 
-Most of my repositories are experiments, research projects and tools built while learning how systems behave under pressure.
+<table>
+<tr>
 
-Some projects are intentionally kept private.  
-The ones published here are the work I am comfortable putting under scrutiny.
+<td width="33%" align="center">
 
-**Code is the documentation.  
-The repository is the lab.**
+### SECURITY
+
+`Offensive Security`
+
+`Reconnaissance`
+
+`Vulnerability Research`
+
+`System Analysis`
+
+</td>
+
+<td width="33%" align="center">
+
+### SYSTEMS
+
+`Linux`
+
+`Processes`
+
+`Networking`
+
+`OS Internals`
+
+`Low-Level Concepts`
+
+</td>
+
+<td width="33%" align="center">
+
+### DEVELOPMENT
+
+`Python`
+
+`Systems Software`
+
+`Automation`
+
+`Security Tooling`
+
+`Research Prototypes`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## `04` — OPERATIONS
+
+<table>
+<tr>
+<td>
+
+**Security Tooling**
+
+Building small, focused tools around problems that are better solved with software than repetition.
+
+</td>
+<td>
+
+**Systems Research**
+
+Learning how operating systems, processes, networks and software behave beyond their intended surface.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**Malware Research**
+
+Studying malicious software from a defensive and analytical perspective — behaviour, execution and indicators.
+
+</td>
+<td>
+
+**Experiments**
+
+Turning questions into working prototypes, then testing where the assumptions stop holding.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Blacksite Orion
+## `05` — GITHUB / SYSTEM TELEMETRY
 
-Independent security research & development.
+<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff&include_all_commits=true&count_private=true" height="165" alt="GitHub Statistics" />
 
-**Security · Systems · Software**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blacksiteorion)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axus415ea@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksiteorion&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&langs_count=8" height="165" alt="Top Languages" />
 
 <br><br>
 
-`New Delhi, India`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blacksiteorion&bg_color=00000000&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Activity" />
+
+</div>
+
+---
+
+## `06` — ENGINEERING PRINCIPLE
+
+<div align="center">
+
+> **Don't trust the surface. Understand what is underneath it.**
+
+</div>
+
+I don't build security tools simply because the category already exists.
+
+I build them when there is something worth understanding, automating, testing or challenging.
+
+The objective is not to make noise.
+
+**It is to reduce the distance between a question and an answer.**
+
+---
+
+## `07` — SELECTED SIGNALS
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   SECURITY        ████████████████████░░                     │
+│   SYSTEMS         █████████████████░░░░░                     │
+│   PYTHON          █████████████████████░                     │
+│   LINUX           ██████████████████████                     │
+│   RESEARCH        ██████████████████░░░░                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `08` — BLACKSITE ORION
+
+**Blacksite Orion** is my workspace for security research, software experiments and independent tooling.
+
+Not a brand built around noise.
+
+Just a place to build, investigate, document and learn.
+
+Some work will be public.
+
+Some won't.
+
+The distinction is intentional.
+
+---
+
+<div align="center">
+
+### `ESTABLISH CONNECTION`
+
+<a href="https://github.com/blacksiteorion">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/holdsauraa">
+<img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:axus415ea@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+`BLACKSITE ORION / NEW DELHI / INDIA`
+
+<br>
+
+<sub>© Ujjwal Tomar · Built with curiosity, discipline and too many terminal windows.</sub>
 
 </div>
