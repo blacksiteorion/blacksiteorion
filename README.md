@@ -64,21 +64,9 @@ I am interested in what happens underneath the interface — how systems behave,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=555555" width="88%" alt="divider"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_rank=true&cache_seconds=1800" height="160" alt="GitHub Statistics"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blacksiteorion&theme=github_dark" width="92%" alt="GitHub Profile Summary"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_rank=true&hide=issues&cache_seconds=1800" width="75%" alt="GitHub Statistics"/>
 
 </div>
 
