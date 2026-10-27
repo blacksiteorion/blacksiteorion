@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,100:151515&text=BLACKSITE%20ORION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=fadeIn&desc=Ujjwal%20Tomar%20%2F%20Security%20%2F%20Systems%20%2F%20Research&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,100:151515&text=BLACKSITE%20ORION&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=fadeIn&desc=Ujjwal%20Tomar%20%2F%20Security%20%2F%20Systems%20%2F%20Research&descAlignY=62&descSize=15" width="100%" alt="Blacksite Orion"/>
 
 <br>
 
@@ -64,59 +64,9 @@ I am interested in what happens underneath the interface — how systems behave,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=555555" width="88%" alt="divider"/>
 
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### SECURITY
-
-`Offensive Security`
-
-`Reconnaissance`
-
-`Vulnerability Research`
-
-</td>
-
-<td width="33%" align="center">
-
-### SYSTEMS
-
-`Linux`
-
-`Networking`
-
-`OS Internals`
-
-</td>
-
-<td width="33%" align="center">
-
-### ENGINEERING
-
-`Python`
-
-`Tooling`
-
-`Automation`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=blacksiteorion&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="160" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksiteorion&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=888888&langs_count=6" height="160" alt="Top Languages"/>
 
 <br><br>
 
